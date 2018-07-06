@@ -2422,6 +2422,100 @@ body {
     width: 100% !important;
   }
 }
+.cid-qWZEae1tsm {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-qWZEae1tsm h2 {
+  text-align: left;
+}
+.cid-qWZEae1tsm h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qWZEae1tsm p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWZEae1tsm .aside-content {
+  flex-basis: 100%;
+}
+.cid-qWZEae1tsm .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qWZEae1tsm .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qWZEae1tsm .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qWZEae1tsm .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qWZEae1tsm .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qWZEae1tsm .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qWZEae1tsm .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qWZEae1tsm .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qWZEae1tsm .mbr-text {
+  text-align: center;
+}
+.cid-qWZEae1tsm H2 {
+  text-align: center;
+}
+.cid-qX04LQee5W {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-qX04LQee5W .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qX04LQee5W .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-qX04LQee5W .mbr-text,
+.cid-qX04LQee5W .mbr-section-btn {
+  text-align: left;
+}
+.cid-qWZMyA2vuD {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qWZMyA2vuD .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
 .cid-qWO0lnEa1Z {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2455,6 +2549,9 @@ body {
   left: 0;
   width: 100%;
   overflow: hidden;
+}
+.cid-qWO0lnEa1Z P {
+  color: #232323;
 }
 .cid-qWO0lSS6Wv {
   padding-top: 90px;
@@ -2491,8 +2588,8 @@ body {
   overflow: hidden;
 }
 .cid-qWIODPeHey {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qWIODPeHey .line {
