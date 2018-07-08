@@ -1449,7 +1449,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #333333;
 }
 .cid-qWCGDh24uS button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1925,7 +1925,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #333333;
 }
 .cid-qWCGDh24uS button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2951,7 +2951,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #333333;
 }
 .cid-qWCGDh24uS button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3463,6 +3463,9 @@ body {
 .cid-qXaFeyiKYl .card-title {
   text-align: center;
 }
+.cid-qXaFeyiKYl P {
+  color: #232323;
+}
 .cid-qXax4ZxWEJ {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -3497,6 +3500,9 @@ body {
 .cid-qX5OomhWqA P {
   color: #232323;
 }
+.cid-qX5OomhWqA .card-title {
+  text-align: center;
+}
 .cid-qX5OoIjHOQ {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3516,6 +3522,61 @@ body {
 }
 .cid-qX5OoIjHOQ .card-wrapper {
   height: 100%;
+}
+.cid-qX5OoIjHOQ P {
+  color: #232323;
+}
+.cid-qX5OoIjHOQ .card-title {
+  text-align: center;
+}
+.cid-qXbxT88hSl {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-qXbxT88hSl h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qXbxT88hSl p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qXbxT88hSl .card-box {
+  padding-top: 2rem;
+}
+.cid-qXbxT88hSl .card-wrapper {
+  height: 100%;
+}
+.cid-qXbxT88hSl .card-title {
+  text-align: center;
+}
+.cid-qXbGMJXMOC {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-qXbGMJXMOC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qXbGMJXMOC p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qXbGMJXMOC .card-box {
+  padding-top: 2rem;
+}
+.cid-qXbGMJXMOC .card-wrapper {
+  height: 100%;
+}
+.cid-qXbGMJXMOC P {
+  color: #232323;
+}
+.cid-qXbGMJXMOC .card-title {
+  text-align: center;
 }
 .cid-qX5SE8ivFc {
   padding-top: 90px;
